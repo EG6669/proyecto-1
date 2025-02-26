@@ -9,4 +9,4 @@ Solo insanos
 - 12-3 web
 
 se agrega imagen desde la casa 
-![Neymar](imagen/neymar.jpg)
+![Neymar](imagen/neymar2.0.jpg)
